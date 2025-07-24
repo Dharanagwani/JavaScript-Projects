@@ -6,11 +6,10 @@ Welcome to my JavaScript Projects repository! This collection showcases various 
 
 ## 📁 Projects Included
 
-| Project Name           | Description                                             |
-|------------------------|---------------------------------------------------------|
-| Age Calculator         | Calculate your age based on date of birth               |
-| Random Password        | Generates random password when user clicks on generate  |
-      Generator                 button
+| Project Name              | Description                                             |
+|---------------------------|---------------------------------------------------------|
+| Age Calculator            | Calculate your age based on date of birth               |
+| Random Password Generator | Generates random password when user clicks on button    |
 
 > More projects will be added regularly. Stay tuned!
 
