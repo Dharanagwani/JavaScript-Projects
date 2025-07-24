@@ -8,7 +8,9 @@ Welcome to my JavaScript Projects repository! This collection showcases various 
 
 | Project Name           | Description                                             |
 |------------------------|---------------------------------------------------------|
-| Age Calculator         | Calculate your age based on date of birth              |
+| Age Calculator         | Calculate your age based on date of birth               |
+| Random Password        | Generates random password every time when user clicks   |
+|  Generator             |  on generate button                                     |
 
 > More projects will be added regularly. Stay tuned!
 
